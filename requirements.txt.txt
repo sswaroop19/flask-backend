@@ -1,0 +1,10 @@
+flask
+flask-cors
+pypdf
+openai
+faiss-cpu
+azure-storage-blob
+numpy
+python-dotenv
+requests
+gunicorn
